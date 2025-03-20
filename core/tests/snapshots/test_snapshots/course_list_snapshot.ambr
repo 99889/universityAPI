@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Introduction to Programming",
+    "code": "CS101",
+    "credits": 3,
+    "department": 1,
+    "prerequisites": []
+  }
+]

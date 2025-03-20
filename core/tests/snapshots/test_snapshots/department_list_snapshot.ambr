@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "name": "Computer Science",
+    "code": "CS",
+    "established_date": "2020-01-01",
+    "budget": "1000000.00",
+    "description": "Department of Computer Science"
+  }
+]
